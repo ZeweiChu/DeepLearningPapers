@@ -4,3 +4,8 @@ The athour proposes neural responding machine (NRM),
 a neural network based response generator for Short-Text Conversation. 
 The basic idea of NRM is to build a hidden representation of a post, 
 and then generate the response based on it. 
+
+Questions: The Encoder-Decoder model may be a good fit for Statistical Machine Translation problem, 
+but does it really work for conversation tasks? 
+
+
